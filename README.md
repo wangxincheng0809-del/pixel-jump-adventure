@@ -20,7 +20,7 @@ GitHub Pages：<https://jvrr952nnt-cmd.github.io/pixel-jump-adventure/>
 - 顶砖块、问号块得金币，能量果变大（变大后受伤只缩小不掉命）
 - 踩刺虫得分，掉坑、碰尖刺、被撞会掉命，每关 240 秒倒计时
 - 分数、金币、生命、关卡、时间 HUD，通关结算与重开
-- 视差滚动云层山丘、粒子飘字、WebAudio 合成音效
+- 视差滚动云层山丘、粒子飘字、WebAudio 合成音效> 本页由 GitHub Pages 直接以 main 分支根目录发布。
 
 ## 文件结构
 
